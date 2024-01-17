@@ -68,7 +68,7 @@ body{
 
 /* ----------------MEDIA_QUERIES------------------------ */
 
-@media(max-width:415px){
+@media(max-width:440px){
     .container{
         height: 65vmax;
         width: 80vmin;
