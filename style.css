@@ -70,8 +70,8 @@ body{
 
 @media(max-width:440px){
    .container{
-        height: 100vh;
-        width: 100vw;
+        height: 100svh;
+        width: 100%;
         padding:3vmax;
         border-radius: 2vmin;
     }
